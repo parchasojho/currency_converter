@@ -1,0 +1,225 @@
+<countries>
+	<country countryName="Andorra" currencyCode="EUR" />
+	<country countryName="United Arab Emirates" currencyCode="AED" />
+	<country countryName="Afghanistan" currencyCode="AFA" />
+	<country countryName="Antigua and Barbuda" currencyCode="XCD" />
+	<country countryName="Anguilla" currencyCode="XCD" />
+	<country countryName="Albania" currencyCode="ALL" />
+	<country countryName="Argentina" currencyCode="ARS" />
+	<country countryName="American Samoa" currencyCode="USD" />
+	<country countryName="Austria" currencyCode="EUR" />
+	<country countryName="Australia" currencyCode="AUD" />
+	<country countryName="Aruba" currencyCode="AWG" />
+	<country countryName="Barbados" currencyCode="BBD" />
+	<country countryName="Bangladesh" currencyCode="BDT" />
+	<country countryName="Belgium" currencyCode="EUR" />
+	<country countryName="Burkina Faso" currencyCode="XOF" />
+	<country countryName="Bahrain" currencyCode="BHD" />
+	<country countryName="Burundi" currencyCode="BIF" />
+	<country countryName="Benin" currencyCode="XOF" />
+	<country countryName="Saint Barthelemy" currencyCode="EUR" />
+	<country countryName="Bermuda" currencyCode="BMD" />
+	<country countryName="Brunei" currencyCode="BND" />
+	<country countryName="Bolivia" currencyCode="BOB" />
+	<country countryName="Bonaire" currencyCode="USD" />
+	<country countryName="Brazil" currencyCode="BRL" />
+	<country countryName="Bahamas" currencyCode="BSD" />
+	<country countryName="Bhutan" currencyCode="BTN" />
+	<country countryName="Bouvet Island" currencyCode="NOK" />
+	<country countryName="Botswana" currencyCode="BWP" />
+	<country countryName="Belize" currencyCode="BZD" />
+	<country countryName="Canada" currencyCode="CAD" />
+	<country countryName="Cocos [Keeling] Islands" currencyCode="AUD" />
+	<country countryName="Central African Republic" currencyCode="XAF" />
+	<country countryName="Republic of the Congo" currencyCode="XAF" />
+	<country countryName="Switzerland" currencyCode="CHF" />
+	<country countryName="Ivory Coast" currencyCode="XOF" />
+	<country countryName="Cook Islands" currencyCode="NZD" />
+	<country countryName="Chile" currencyCode="CLP" />
+	<country countryName="Cameroon" currencyCode="XAF" />
+	<country countryName="China" currencyCode="CNY" />
+	<country countryName="Colombia" currencyCode="COP" />
+	<country countryName="Costa Rica" currencyCode="CRC" />
+	<country countryName="Cuba" currencyCode="CUP" />
+	<country countryName="Cape Verde" currencyCode="CVE" />
+	<country countryName="Curacao" currencyCode="ANG" />
+	<country countryName="Christmas Island" currencyCode="AUD" />
+	<country countryName="Cyprus" currencyCode="EUR" />
+	<country countryName="Czech Republic" currencyCode="CZK" />
+	<country countryName="Germany" currencyCode="EUR" />
+	<country countryName="Djibouti" currencyCode="DJF" />
+	<country countryName="Denmark" currencyCode="DKK" />
+	<country countryName="Dominica" currencyCode="XCD" />
+	<country countryName="Dominican Republic" currencyCode="DOP" />
+	<country countryName="Algeria" currencyCode="DZD" />
+	<country countryName="Ecuador" currencyCode="USD" />
+	<country countryName="Estonia" currencyCode="EUR" />
+	<country countryName="Egypt" currencyCode="EGP" />
+	<country countryName="Western Sahara" currencyCode="MAD" />
+	<country countryName="Spain" currencyCode="EUR" />
+	<country countryName="Ethiopia" currencyCode="ETB" />
+	<country countryName="Finland" currencyCode="EUR" />
+	<country countryName="Falkland Islands" currencyCode="FKP" />
+	<country countryName="Micronesia" currencyCode="USD" />
+	<country countryName="Faroe Islands" currencyCode="DKK" />
+	<country countryName="France" currencyCode="EUR" />
+	<country countryName="Gabon" currencyCode="XAF" />
+	<country countryName="United Kingdom" currencyCode="GBP" />
+	<country countryName="Grenada" currencyCode="XCD" />
+	<country countryName="French Guiana" currencyCode="EUR" />
+	<country countryName="Guernsey" currencyCode="GBP" />
+	<country countryName="Gibraltar" currencyCode="GIP" />
+	<country countryName="Greenland" currencyCode="DKK" />
+	<country countryName="Gambia" currencyCode="GMD" />
+	<country countryName="Guinea" currencyCode="GNF" />
+	<country countryName="Guadeloupe" currencyCode="EUR" />
+	<country countryName="Equatorial Guinea" currencyCode="XAF" />
+	<country countryName="Greece" currencyCode="EUR" />
+	<country countryName="South Georgia and the South Sandwich Islands" currencyCode="GBP" />
+	<country countryName="Guatemala" currencyCode="GTQ" />
+	<country countryName="Guam" currencyCode="USD" />
+	<country countryName="Guinea-Bissau" currencyCode="XOF" />
+	<country countryName="Guyana" currencyCode="GYD" />
+	<country countryName="Hong Kong" currencyCode="HKD" />
+	<country countryName="Heard Island and McDonald Islands" currencyCode="AUD" />
+	<country countryName="Honduras" currencyCode="HNL" />
+	<country countryName="Croatia" currencyCode="HRK" />
+	<country countryName="Haiti" currencyCode="HTG" />
+	<country countryName="Hungary" currencyCode="HUF" />
+	<country countryName="Indonesia" currencyCode="IDR" />
+	<country countryName="Ireland" currencyCode="EUR" />
+	<country countryName="Israel" currencyCode="ILS" />
+	<country countryName="Isle of Man" currencyCode="GBP" />
+	<country countryName="India" currencyCode="INR" />
+	<country countryName="British Indian Ocean Territory" currencyCode="USD" />
+	<country countryName="Iraq" currencyCode="IQD" />
+	<country countryName="Iceland" currencyCode="ISK" />
+	<country countryName="Italy" currencyCode="EUR" />
+	<country countryName="Jersey" currencyCode="GBP" />
+	<country countryName="Jamaica" currencyCode="JMD" />
+	<country countryName="Jordan" currencyCode="JOD" />
+	<country countryName="Japan" currencyCode="JPY" />
+	<country countryName="Kenya" currencyCode="KES" />
+	<country countryName="Cambodia" currencyCode="KHR" />
+	<country countryName="Kiribati" currencyCode="AUD" />
+	<country countryName="Comoros" currencyCode="KMF" />
+	<country countryName="Saint Kitts and Nevis" currencyCode="XCD" />
+	<country countryName="North Korea" currencyCode="KPW" />
+	<country countryName="South Korea" currencyCode="KRW" />
+	<country countryName="Kuwait" currencyCode="KWD" />
+	<country countryName="Cayman Islands" currencyCode="KYD" />
+	<country countryName="Kazakhstan" currencyCode="KZT" />
+	<country countryName="Laos" currencyCode="LAK" />
+	<country countryName="Lebanon" currencyCode="LBP" />
+	<country countryName="Saint Lucia" currencyCode="XCD" />
+	<country countryName="Liechtenstein" currencyCode="CHF" />
+	<country countryName="Sri Lanka" currencyCode="LKR" />
+	<country countryName="Liberia" currencyCode="LRD" />
+	<country countryName="Lesotho" currencyCode="LSL" />
+	<country countryName="Lithuania" currencyCode="EUR" />
+	<country countryName="Luxembourg" currencyCode="EUR" />
+	<country countryName="Latvia" currencyCode="EUR" />
+	<country countryName="Libya" currencyCode="LYD" />
+	<country countryName="Morocco" currencyCode="MAD" />
+	<country countryName="Monaco" currencyCode="EUR" />
+	<country countryName="Moldova" currencyCode="MDL" />
+	<country countryName="Montenegro" currencyCode="EUR" />
+	<country countryName="Saint Martin" currencyCode="EUR" />
+	<country countryName="Marshall Islands" currencyCode="USD" />
+	<country countryName="Macedonia" currencyCode="MKD" />
+	<country countryName="Mali" currencyCode="XOF" />
+	<country countryName="Myanmar [Burma]" currencyCode="MMK" />
+	<country countryName="Mongolia" currencyCode="MNT" />
+	<country countryName="Macao" currencyCode="MOP" />
+	<country countryName="Northern Mariana Islands" currencyCode="USD" />
+	<country countryName="Martinique" currencyCode="EUR" />
+	<country countryName="Mauritania" currencyCode="MRO" />
+	<country countryName="Montserrat" currencyCode="XCD" />
+	<country countryName="Malta" currencyCode="EUR" />
+	<country countryName="Mauritius" currencyCode="MUR" />
+	<country countryName="Maldives" currencyCode="MVR" />
+	<country countryName="Malawi" currencyCode="MWK" />
+	<country countryName="Mexico" currencyCode="MXN" />
+	<country countryName="Malaysia" currencyCode="MYR" />
+	<country countryName="Namibia" currencyCode="NAD" />
+	<country countryName="New Caledonia" currencyCode="XPF" />
+	<country countryName="Niger" currencyCode="XOF" />
+	<country countryName="Norfolk Island" currencyCode="AUD" />
+	<country countryName="Nigeria" currencyCode="NGN" />
+	<country countryName="Nicaragua" currencyCode="NIO" />
+	<country countryName="Netherlands" currencyCode="EUR" />
+	<country countryName="Norway" currencyCode="NOK" />
+	<country countryName="Nepal" currencyCode="NPR" />
+	<country countryName="Nauru" currencyCode="AUD" />
+	<country countryName="Niue" currencyCode="NZD" />
+	<country countryName="New Zealand" currencyCode="NZD" />
+	<country countryName="Oman" currencyCode="OMR" />
+	<country countryName="Panama" currencyCode="PAB" />
+	<country countryName="Peru" currencyCode="PEN" />
+	<country countryName="French Polynesia" currencyCode="XPF" />
+	<country countryName="Papua New Guinea" currencyCode="PGK" />
+	<country countryName="Philippines" currencyCode="PHP" />
+	<country countryName="Pakistan" currencyCode="PKR" />
+	<country countryName="Poland" currencyCode="PLN" />
+	<country countryName="Saint Pierre and Miquelon" currencyCode="EUR" />
+	<country countryName="Pitcairn Islands" currencyCode="NZD" />
+	<country countryName="Puerto Rico" currencyCode="USD" />
+	<country countryName="Palestine" currencyCode="ILS" />
+	<country countryName="Portugal" currencyCode="EUR" />
+	<country countryName="Palau" currencyCode="USD" />
+	<country countryName="Paraguay" currencyCode="PYG" />
+	<country countryName="Qatar" currencyCode="QAR" />
+	<country countryName="Reunion" currencyCode="EUR" />
+	<country countryName="Russia" currencyCode="RUB" />
+	<country countryName="Saudi Arabia" currencyCode="SAR" />
+	<country countryName="Solomon Islands" currencyCode="SBD" />
+	<country countryName="Seychelles" currencyCode="SCR" />
+	<country countryName="Sweden" currencyCode="SEK" />
+	<country countryName="Singapore" currencyCode="SGD" />
+	<country countryName="Saint Helena" currencyCode="SHP" />
+	<country countryName="Slovenia" currencyCode="EUR" />
+	<country countryName="Svalbard and Jan Mayen" currencyCode="NOK" />
+	<country countryName="Slovakia" currencyCode="EUR" />
+	<country countryName="Sierra Leone" currencyCode="SLL" />
+	<country countryName="San Marino" currencyCode="EUR" />
+	<country countryName="Senegal" currencyCode="XOF" />
+	<country countryName="Somalia" currencyCode="SOS" />
+	<country countryName="Sao Tome and Principe" currencyCode="STD" />
+	<country countryName="El Salvador" currencyCode="USD" />
+	<country countryName="Sint Maarten" currencyCode="ANG" />
+	<country countryName="Syria" currencyCode="SYP" />
+	<country countryName="Swaziland" currencyCode="SZL" />
+	<country countryName="Turks and Caicos Islands" currencyCode="USD" />
+	<country countryName="Chad" currencyCode="XAF" />
+	<country countryName="French Southern Territories" currencyCode="EUR" />
+	<country countryName="Togo" currencyCode="XOF" />
+	<country countryName="Thailand" currencyCode="THB" />
+	<country countryName="Tokelau" currencyCode="NZD" />
+	<country countryName="East Timor" currencyCode="USD" />
+	<country countryName="Tunisia" currencyCode="TND" />
+	<country countryName="Tonga" currencyCode="TOP" />
+	<country countryName="Turkey" currencyCode="TRY" />
+	<country countryName="Trinidad and Tobago" currencyCode="TTD" />
+	<country countryName="Tuvalu" currencyCode="AUD" />
+	<country countryName="Taiwan" currencyCode="TWD" />
+	<country countryName="Tanzania" currencyCode="TZS" />
+	<country countryName="Ukraine" currencyCode="UAH" />
+	<country countryName="Uganda" currencyCode="UGX" />
+	<country countryName="U.S. Minor Outlying Islands" currencyCode="USD" />
+	<country countryName="United States" currencyCode="USD" />
+	<country countryName="Uruguay" currencyCode="UYU" />
+	<country countryName="Vatican City" currencyCode="EUR" />
+	<country countryName="Saint Vincent and the Grenadines" currencyCode="XCD" />
+	<country countryName="British Virgin Islands" currencyCode="USD" />
+	<country countryName="U.S. Virgin Islands" currencyCode="USD" />
+	<country countryName="Vietnam" currencyCode="VND" />
+	<country countryName="Vanuatu" currencyCode="VUV" />
+	<country countryName="Wallis and Futuna" currencyCode="XPF" />
+	<country countryName="Samoa" currencyCode="WST" />
+	<country countryName="Kosovo" currencyCode="EUR" />
+	<country countryName="Yemen" currencyCode="YER" />
+	<country countryName="Mayotte" currencyCode="EUR" />
+	<country countryName="South Africa" currencyCode="ZAR" />
+	<country countryName="Zambia" currencyCode="ZMK" />
+	<country countryName="Zimbabwe" currencyCode="ZWD" />
+</countries>
